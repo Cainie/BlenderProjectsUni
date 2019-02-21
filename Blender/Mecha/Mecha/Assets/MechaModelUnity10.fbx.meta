@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 5b79289ec2cef454ba20756a1dc10749
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankle.l
+    100002: ankle.r
+    100004: backtoe1.l
+    100006: backtoe1.l_end
+    100008: backtoe1.r
+    100010: backtoe1.r_end
+    100012: backtoe2.l
+    100014: backtoe2.r
+    100016: backtoe3.l
+    100018: backtoe3.r
+    100020: brac.l
+    100022: brac.r.001
+    100024: chest
+    100026: foot_control.l
+    100028: foot_control.l_end
+    100030: foot_control.r
+    100032: foot_control.r_end
+    100034: foot_handle.l
+    100036: foot_handle.r
+    100038: forearm.l
+    100040: forearm.l_end
+    100042: forearm.r
+    100044: forearm.r_end
+    100046: fronttoe1.l
+    100048: fronttoe1.l_end
+    100050: fronttoe1.r
+    100052: fronttoe1.r_end
+    100054: fronttoe2.l.002
+    100056: fronttoe2.r
+    100058: fronttoe2.r.001
+    100060: fronttoe3.l
+    100062: frontttoe1.l
+    100064: frontttoe1.l_end
+    100066: frontttoe1.r
+    100068: frontttoe1.r_end
+    100070: frontttoe2.l
+    100072: frontttoe2.r
+    100074: frontttoe3.l
+    100076: frontttoe3.r
+    100078: main_handle
+    100080: main_root_bone
+    100082: //RootNode
+    100084: pelvic.l
+    100086: pelvic.r
+    100088: pt.l
+    100090: pt.l_end
+    100092: pt.r.001
+    100094: pt.r.001_end
+    100096: shin.l
+    100098: shin.l_end
+    100100: shin.r
+    100102: shin.r_end
+    100104: shoulder.l
+    100106: shoulder.r
+    100108: thigh.l
+    100110: thigh.r
+    100112: tricep.l
+    100114: tricep.l_end
+    100116: tricep.r
+    100118: tricep.r_end
+    400000: ankle.l
+    400002: ankle.r
+    400004: backtoe1.l
+    400006: backtoe1.l_end
+    400008: backtoe1.r
+    400010: backtoe1.r_end
+    400012: backtoe2.l
+    400014: backtoe2.r
+    400016: backtoe3.l
+    400018: backtoe3.r
+    400020: brac.l
+    400022: brac.r.001
+    400024: chest
+    400026: foot_control.l
+    400028: foot_control.l_end
+    400030: foot_control.r
+    400032: foot_control.r_end
+    400034: foot_handle.l
+    400036: foot_handle.r
+    400038: forearm.l
+    400040: forearm.l_end
+    400042: forearm.r
+    400044: forearm.r_end
+    400046: fronttoe1.l
+    400048: fronttoe1.l_end
+    400050: fronttoe1.r
+    400052: fronttoe1.r_end
+    400054: fronttoe2.l.002
+    400056: fronttoe2.r
+    400058: fronttoe2.r.001
+    400060: fronttoe3.l
+    400062: frontttoe1.l
+    400064: frontttoe1.l_end
+    400066: frontttoe1.r
+    400068: frontttoe1.r_end
+    400070: frontttoe2.l
+    400072: frontttoe2.r
+    400074: frontttoe3.l
+    400076: frontttoe3.r
+    400078: main_handle
+    400080: main_root_bone
+    400082: //RootNode
+    400084: pelvic.l
+    400086: pelvic.r
+    400088: pt.l
+    400090: pt.l_end
+    400092: pt.r.001
+    400094: pt.r.001_end
+    400096: shin.l
+    400098: shin.l_end
+    400100: shin.r
+    400102: shin.r_end
+    400104: shoulder.l
+    400106: shoulder.r
+    400108: thigh.l
+    400110: thigh.r
+    400112: tricep.l
+    400114: tricep.l_end
+    400116: tricep.r
+    400118: tricep.r_end
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
